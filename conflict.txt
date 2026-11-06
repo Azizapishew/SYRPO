@@ -1,0 +1,1 @@
+Это текст из ветки conflict-branch
